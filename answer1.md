@@ -1,0 +1,1 @@
+The "Product" and "Product_Category" entities have a relationship of one-to-many. Each record in the "Product_Category" table can have multiple records in the "Product" table associated with it, as indicated by the foreign key "category_id" in the "Product" table.
